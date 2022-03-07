@@ -1,0 +1,49 @@
+body{
+
+background-color: darkslategray;
+
+}
+
+h1{
+
+    color: aqua;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+   font-style: italic;
+    text-align: center;
+}
+
+.container{
+
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+
+.play1{
+    text-align: center;
+    font-size: 2rem;
+    font-style: oblique;
+    margin: 10px;
+    color: aqua
+}
+
+.play2{
+
+    text-align: center;
+    font-size: 2rem;
+    font-style: oblique;
+    margin: 10px;
+    color: aqua
+}
+footer{
+
+    font-size: 1rem;
+    font-style: oblique;
+    text-align: center;
+    color: aliceblue;
+}
+
+img{
+     size: 0em;
+}
